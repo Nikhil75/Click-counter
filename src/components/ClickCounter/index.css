@@ -1,0 +1,24 @@
+.counter-App-container {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #f1f5f8;
+}
+.counter-color {
+  color: #c20a72;
+}
+.count-increase-button {
+  background-color: deepskyblue;
+  color: white;
+  border-width: 0px;
+  border-radius: 4px;
+  height: 5vh;
+}
+.click-button {
+  text-align: center;
+}
+.count-increase-button:hover {
+  cursor: pointer;
+}
